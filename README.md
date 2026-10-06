@@ -34,5 +34,5 @@ Deepening my work in application security and offensive security / penetration t
 ## 📫 Reach me
 
 - Open to new opportunities, especially full-stack, backend, or AI product roles
-- Based in Edmonton, Alberta (open to remote)
+- Based in Sherwood Park, Alberta (open to remote)
 - Email and LinkedIn in the sidebar
