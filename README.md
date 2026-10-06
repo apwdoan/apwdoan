@@ -1,6 +1,6 @@
 # Hi, I'm Austin Doan 👋
 
-Full-stack developer based in Edmonton, Alberta. I build AI-powered products end to end, with a focus on real problems in the nonprofit and small-business space.
+Full-stack developer based in Sherwood Park, Alberta. I build AI-powered products end to end, with a focus on real problems in the nonprofit and small-business space.
 
 ## 🔭 What I'm working on
 
