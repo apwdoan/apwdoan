@@ -12,10 +12,15 @@ Full-stack developer based in Edmonton, Alberta. I build AI-powered products end
 ## 🧰 Tech I work with
 
 **Languages:** C#, Python, TypeScript, Rust, SQL
+
 **Backend:** .NET / ASP.NET Core, Entity Framework Core, SignalR, PostgreSQL, SQL Server
+
 **Frontend:** React, Razor Pages, HTML/CSS
+
 **Desktop:** Tauri 2 (cross-platform Rust + web)
+
 **AI/ML:** LLM integration, local model deployment, tool calling, automation
+
 **DevOps:** Docker, Git, CI/CD
 
 ## 🌱 Currently exploring
