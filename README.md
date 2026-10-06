@@ -29,7 +29,7 @@ Deepening my work in application security and offensive security / penetration t
 
 ## 🤝 Community
 
-**Treasurer**, **[Dev Edmonton Society](https://devedmonton.com/)** — plus volunteer contributions to the society's website.
+**GitHub organization admin and Treasurer**, **[Dev Edmonton Society](https://devedmonton.com/)** — triage and create issues, review and merge pull requests on the society's website, and ship my own volunteer contributions.
 
 ## 📫 Reach me
 
