@@ -29,7 +29,7 @@ Deepening my work in application security and offensive security / penetration t
 
 ## 🤝 Community
 
-**Treasurer**, Dev Edmonton Society — plus volunteer contributions to the society's website.
+**Treasurer**, **[Dev Edmonton Society](https://devedmonton.com/)** — plus volunteer contributions to the society's website.
 
 ## 📫 Reach me
 
